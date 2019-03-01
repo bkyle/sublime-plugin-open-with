@@ -1,0 +1,9 @@
+[
+	{
+		"id": "file",
+		"children": [
+			{ "id": "open_with_external_app" },
+			{ "command": "open_with_external_app" }
+		]
+	}
+]
